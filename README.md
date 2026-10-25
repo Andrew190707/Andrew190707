@@ -1,6 +1,8 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hd-hello-dark.svg"><img alt="hello" src="assets/hd-hello-light.svg" width="620"></picture>
+<sub>Andrew190707 / README.md</sub>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/moses-face-ascii-v9.svg"><img align="right" alt="ASCII portrait of Moses" src="assets/moses-face-ascii-v9.svg" width="470"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/moses-face-ascii-v9.svg"><img align="right" alt="Animated ASCII portrait of Moses" src="assets/moses-face-ascii-v9.svg" width="500"></picture>
+
+### about
 
 > **Moses Andrew Raymond** — Andy to most people.<br>
 > Cybersecurity student in Chennai. I break things properly so they can be fixed properly.
@@ -13,12 +15,12 @@ I like understanding a system well enough to know exactly where it gives.
 
 <br clear="right">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hd-stack-dark.svg"><img alt="stack" src="assets/hd-stack-light.svg" width="620"></picture>
+### stack
 
 <samp>Burp Suite · Metasploit · Nmap · Wireshark</samp><br>
 <samp>Kali Linux · OWASP Top 10 · Python</samp>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hd-projects-dark.svg"><img alt="projects" src="assets/hd-projects-light.svg" width="620"></picture>
+### projects
 
 **BlackBox**<br>
 <samp>my final-year project: autonomous cyber governance, containment, deception and recovery</samp>
@@ -28,7 +30,7 @@ I like understanding a system well enough to know exactly where it gives.
 
 More at [rootbyraymond.site.je](https://rootbyraymond.site.je).
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hd-activity-dark.svg"><img alt="activity" src="assets/hd-activity-light.svg" width="620"></picture>
+### stats
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="gen/stats-dark.svg"><img alt="Contributions in the last 12 months" src="gen/stats-light.svg" width="800"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="gen/streak-dark.svg"><img alt="Current and longest contribution streak" src="gen/streak-light.svg" width="800"></picture>
@@ -37,6 +39,4 @@ More at [rootbyraymond.site.je](https://rootbyraymond.site.je).
 
 <sub>drawn by this repo every night. No third-party widgets involved.</sub>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hd-contact-dark.svg"><img alt="contact" src="assets/hd-contact-light.svg" width="620"></picture>
-
-[LinkedIn](https://in.linkedin.com/in/moses-andrew-raymond-4a7164339) · [Portfolio](https://rootbyraymond.site.je) · [GitHub](https://github.com/Andrew190707)
+<sub>[LinkedIn](https://in.linkedin.com/in/moses-andrew-raymond-4a7164339) · [Portfolio](https://rootbyraymond.site.je) · [GitHub](https://github.com/Andrew190707)</sub>
