@@ -1,6 +1,6 @@
 <sub>Andrew190707 / README.md</sub>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/moses-face-ascii-v12.svg"><img alt="Animated ASCII portrait of Moses" src="assets/moses-face-ascii-v12.svg" width="700"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/moses-face-ascii-v13.svg"><img alt="Animated ASCII portrait of Moses" src="assets/moses-face-ascii-v13.svg" width="700"></picture></p>
 
 <br clear="all">
 <br>
