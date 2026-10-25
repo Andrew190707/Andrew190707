@@ -5,6 +5,8 @@
 <br clear="all">
 <br>
 
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="gen/stats-dark.svg"><img alt="Contributions in the last 12 months" src="gen/stats-light.svg" width="700"></picture></p>
+
 ### about
 
 > **Moses Andrew Raymond** — Andy to most people.<br>
@@ -35,7 +37,6 @@ More at [rootbyraymond.site.je](https://rootbyraymond.site.je).
 
 ### stats
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="gen/stats-dark.svg"><img alt="Contributions in the last 12 months" src="gen/stats-light.svg" width="800"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="gen/streak-dark.svg"><img alt="Current and longest contribution streak" src="gen/streak-light.svg" width="800"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="gen/langs-dark.svg"><img alt="Top languages" src="gen/langs-light.svg" width="800"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="gen/year-dark.svg"><img alt="The year, one character per day" src="gen/year-light.svg" width="800"></picture>
