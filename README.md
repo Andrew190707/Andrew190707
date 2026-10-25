@@ -1,6 +1,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hd-hello-dark.svg"><img alt="hello" src="assets/hd-hello-light.svg" width="620"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/moses-face-ascii-v7.svg"><img align="right" alt="ASCII portrait of Moses" src="assets/moses-face-ascii-v7.svg" width="470"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/moses-face-ascii-v8.svg"><img align="right" alt="ASCII portrait of Moses" src="assets/moses-face-ascii-v8.svg" width="470"></picture>
 
 > **Moses Andrew Raymond** — Andy to most people.<br>
 > Cybersecurity student in Chennai. I break things properly so they can be fixed properly.
