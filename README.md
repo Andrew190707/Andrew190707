@@ -1,6 +1,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hd-hello-dark.svg"><img alt="hello" src="assets/hd-hello-light.svg" width="800"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/moses-face-ascii.svg"><img align="right" alt="ASCII portrait of Andy" src="assets/moses-face-ascii.svg" width="440"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/moses-face-ascii-v2.svg"><img align="right" alt="ASCII portrait of Andy" src="assets/moses-face-ascii-v2.svg" width="440"></picture>
 
 > **Moses Andrew Raymond**, Andy to most people. Third-year CSE student in Chennai,<br>
 > learning to break things properly so they can be fixed properly.
