@@ -7,7 +7,7 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="gen/stats-dark.svg"><img alt="Contributions in the last 12 months" src="gen/stats-light.svg" width="700"></picture></p>
 
-<sub>[LinkedIn](https://in.linkedin.com/in/moses-andrew-raymond-4a7164339) · [Portfolio](https://rootbyraymond.site.je) · [GitHub](https://github.com/Andrew190707)</sub>
+<p align="center"><a href="https://in.linkedin.com/in/moses-andrew-raymond-4a7164339">LinkedIn</a> · <a href="https://rootbyraymond.site.je">Portfolio</a> · <a href="https://github.com/Andrew190707">GitHub</a></p>
 
 ### about
 
