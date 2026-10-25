@@ -25,7 +25,8 @@ I like understanding a system well enough to know exactly where it gives.
 ### stack
 
 <samp>Burp Suite · Metasploit · Nmap · Wireshark</samp><br>
-<samp>Kali Linux · OWASP Top 10 · Python</samp>
+<samp>Kali Linux · OWASP Top 10 · Python · Splunk · ServiceNow</samp><br>
+<samp>Microsoft Azure · Microsoft Azure Data Explorer</samp>
 
 ### projects
 
