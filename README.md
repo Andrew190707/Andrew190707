@@ -2,6 +2,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/moses-face-ascii-v9.svg"><img align="right" alt="Animated ASCII portrait of Moses" src="assets/moses-face-ascii-v9.svg" width="500"></picture>
 
+<br clear="all">
+<br>
+
 ### about
 
 > **Moses Andrew Raymond** — Andy to most people.<br>
