@@ -33,9 +33,6 @@ I like understanding a system well enough to know exactly where it gives.
 **BlackBox**<br>
 <samp>my final-year project: autonomous cyber governance, containment, deception and recovery</samp>
 
-**UV Store**<br>
-<samp>a custom storefront for a menswear label, built to replace Shopify</samp>
-
 More at [rootbyraymond.site.je](https://rootbyraymond.site.je).
 
 ### stats
