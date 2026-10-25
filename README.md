@@ -7,6 +7,8 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="gen/stats-dark.svg"><img alt="Contributions in the last 12 months" src="gen/stats-light.svg" width="700"></picture></p>
 
+<sub>[LinkedIn](https://in.linkedin.com/in/moses-andrew-raymond-4a7164339) · [Portfolio](https://rootbyraymond.site.je) · [GitHub](https://github.com/Andrew190707)</sub>
+
 ### about
 
 > **Moses Andrew Raymond** — Andy to most people.<br>
@@ -43,4 +45,3 @@ More at [rootbyraymond.site.je](https://rootbyraymond.site.je).
 
 <sub>drawn by this repo every night. No third-party widgets involved.</sub>
 
-<sub>[LinkedIn](https://in.linkedin.com/in/moses-andrew-raymond-4a7164339) · [Portfolio](https://rootbyraymond.site.je) · [GitHub](https://github.com/Andrew190707)</sub>
