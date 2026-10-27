@@ -40,7 +40,7 @@ I like understanding a system well enough to know exactly where it gives.
 <samp>analyzed simulated mail-trace and sign-in logs across a two-wave campaign; reviewed SPF/DKIM/DMARC outcomes, traced a lookalike domain to 36 inboxes, and correlated events indicating two compromised accounts and an impossible-travel pattern.</samp>
 
 **Advanced Network Vulnerability Scanner** · `python · nmap`<br>
-<samp>built a scanner integrating Nmap for port scanning, service detection, and structured security reporting.</samp>
+<samp>Built a scanner integrating Nmap for port scanning, service detection, and structured security reporting.</samp>
 
 More at [rootbyraymond.site.je](https://rootbyraymond.site.je).
 
